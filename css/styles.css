@@ -232,7 +232,8 @@ text-transform: capitalize;
     gap: 24px;
 }
 .team-item {
-    background-color: #fff;;
+    background-color: #fff;
+     border-radius: 0 0 4px 4px;
 }
 .team-photo{
      border-top: none;
